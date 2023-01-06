@@ -41,7 +41,7 @@
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-plugin-router": "~4.4.0",
     "@vue/cli-plugin-vuex": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-service": "~5.0.8",
     "@vue/test-utils": "^1.1.0",
     "axios-mock-adapter": "^1.18.2",
     "axios-mock-server": "^0.19.0",
@@ -59,7 +59,7 @@
     "regenerator-runtime": "^0.11.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "vue-jest": "^3.0.7",
+    "vue-jest": "^4.0.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
